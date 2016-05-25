@@ -1,5 +1,6 @@
 <?php
 
-echo "Goodbye";!!!!
-
-?>
+echo "Goodbye";
+echo 'My';
+echo 'Dear';
+echo 'Friend';
